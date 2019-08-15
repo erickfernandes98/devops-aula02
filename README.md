@@ -1,5 +1,6 @@
 # devops-aula02
 
 # Marina Ruy Barbosa
-# Tom Cruise
+# Brad Pitt
 # Robert Downey Jr
+# Will Smith
